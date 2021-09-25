@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/kpi/bin/Debug/net5.0
+/kpi/obj
+/kpitests/bin
+/kpitests/obj
